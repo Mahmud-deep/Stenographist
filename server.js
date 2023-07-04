@@ -12,7 +12,7 @@ notes = JSON.parse(notes)
 
 
 
-const PORT = process.env.PORT || 3006;
+const PORT = process.env.PORT || 2001;
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
