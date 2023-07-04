@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mahmud-deep/Stenographist/issues"
   },
-  "homepage": "https://github.com/Mahmud-deep/Stenographist#readme"
+  "homepage": "https://github.com/Mahmud-deep/Stenographist#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
