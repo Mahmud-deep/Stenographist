@@ -26,6 +26,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Links
 
+https://stenographist-8e260aa981b6.herokuapp.com/notes
+
+https://github.com/Mahmud-deep/Stenographist
+
+https://mahmud-deep.github.io/Stenographist/
+
+
 # Review
 
 The URL of the functional, deployed application.
